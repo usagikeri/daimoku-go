@@ -1,0 +1,35 @@
+\documentclass[11pt]{jarticle}
+\usepackage[senior]{fireport}
+
+\begin{document}
+\thispagestyle{empty}
+
+\section*{題目一覧}
+
+\begin{table}[htb]
+\begin{tabular}{|c|c|p{31em}|}
+
+
+\multicolumn{3}{l}{☆学部3年生} \\
+\hline
+学籍番号 & 氏名 & 題目 \\ \hline
+x & x & x \\ \hline
+\multicolumn{3}{l}{} \\
+			
+\multicolumn{3}{l}{☆学部4年生} \\
+\hline
+学籍番号 & 氏名 & 題目 \\ \hline
+y & y & y \\ \hline
+\multicolumn{3}{l}{} \\
+			
+\multicolumn{3}{l}{☆大学院1年生} \\
+\hline
+学籍番号 & 氏名 & 題目 \\ \hline
+z & z & z \\ \hline
+\multicolumn{3}{l}{} \\
+			
+
+\end{tabular}
+\end{table}
+
+\end{document}
